@@ -1,0 +1,32 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#gallery {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+#daftar {
+  .anggota-kelas {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .anggota {
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+  }
+
+  .foto {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hid;
+    margin: 0 auto 10px;
+  }
+}
